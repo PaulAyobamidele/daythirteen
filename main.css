@@ -24,6 +24,7 @@ h3 {
     color: #fff;
     margin: 10px 0 20px;
     word-spacing: 5pt;
+    text-align: center;
 }
 
 .container {
@@ -49,4 +50,8 @@ textarea {
     padding: 10px 20px;
     margin: 0 5px 10px 0;
     font-size: inline-block; 
+}
+
+.tag.highlight {
+    background-color: #1a4811;
 }
